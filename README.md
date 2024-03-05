@@ -7,7 +7,7 @@ The Automated Windows OS Hardening Tool is a OS hardening tool with GUI to provi
 2. run powershell_hardening-win_x64.exe
 3. note: the executable should be executed with administrative privilege
 
-### References
+## References
 1. https://www.varonis.com/blog/windows-powershell-tutorials
 2. https://github.com/ssh3ll/Windows-10-Hardening
 
