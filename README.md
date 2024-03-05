@@ -38,14 +38,12 @@ Selecting “Firewall Configurations” will bring users into the description pa
  <img width="403" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/60351da9-d8c4-4358-b8d2-2a5f230dfb17">
 </p>
 <br><br>
-The scan result will show all missing firewall rules. Selecting “Next” will allow users to proceed with the hardening process.
-<br>
+<p>The scan result will show all missing firewall rules. Selecting “Next” will allow users to proceed with the hardening process.</p>
 <p align="center">
  <img width="408" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/d2ed0fb3-8f44-4515-ad55-822b181b71ae">
 </p>
 <br><br>
-Users may select the firewall rules that they wish to apply to their PC by ticking the checkboxes or they may use the “Select All” button to apply all firewall rules. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.
-<br>
+<p>Users may select the firewall rules that they wish to apply to their PC by ticking the checkboxes or they may use the “Select All” button to apply all firewall rules. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.</p>
 <p align="center">
  <img width="411" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/32d5c0a7-004a-4c96-a1ec-a6114515f2e2">
 </p>
@@ -59,14 +57,12 @@ Selecting “Windows Configurations” will bring users into the description pag
  <img width="395" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/eac9e112-c877-4455-85e9-21a71f51d919">
 </p>
 <br><br>
-The scan result will show all unnecessary Windows services that are running and Windows Auto-Update status. Selecting “Next” will allow users to proceed with the hardening process.
-<br>
+<p>The scan result will show all unnecessary Windows services that are running and Windows Auto-Update status. Selecting “Next” will allow users to proceed with the hardening process.</p>
 <p align="center">
  <img width="418" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/2b9e7f9c-c91e-4730-91ed-3ef76081b43a">
 </p>
 <br><br>
-Users may select the services that they wish to disable on their PC by ticking the checkboxes or they may use the “Select All” button to disable all unnecessary services. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.
-<br>
+<p>Users may select the services that they wish to disable on their PC by ticking the checkboxes or they may use the “Select All” button to disable all unnecessary services. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.</p>
 <p align="center">
  <img width="402" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/06b96b0b-c2cb-4b4f-87e5-7e734e557f47">
 </p>
@@ -80,14 +76,12 @@ Selecting “Microsoft Configurations” will bring users into the description p
  <img width="407" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/bed83a78-19d8-4445-b2c9-128a963e4e48">
 </p>
 <br><br>
-The scan result will show all unnecessary Microsoft services that are running. Selecting “Next” will allow users to proceed with the hardening process.
-<br>
+<p>The scan result will show all unnecessary Microsoft services that are running. Selecting “Next” will allow users to proceed with the hardening process.</p>
 <p align="center">
  <img width="414" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/904e7ed3-8f85-4abe-89e9-a5cf4b4b2e20">
 </p>
 <br><br>
-Users may select the services that they wish to disable on their PC by ticking the checkboxes or they may use the “Select All” button to disable all unnecessary services. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.
-<br>
+<p>Users may select the services that they wish to disable on their PC by ticking the checkboxes or they may use the “Select All” button to disable all unnecessary services. Selecting “Start Hardening” on the bottom will start the hardening process on the PC.</p>
 <p align="center">
  <img width="401" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/943f25cc-4749-43bb-87ba-99132b3a5853">
 </p>
@@ -101,8 +95,7 @@ Selecting “Password Management” will direct users to the Password Management
  <img width="392" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/03b5d456-f55b-4add-90a2-b9ae0fbc45a2">
 </p>
 <br><br>
-In the input page, users will have to enter the website, server, or application link that corresponds to their credentials and decide if they wish to save their credentials into Windows Credentials Manager. Once user has filled up the form, selecting “Next” will allow the system to check if the password meets the complexity requirements. If it does, users’ credentials will be stored; if it does not, users will have to try again.
-<br>
+<p>In the input page, users will have to enter the website, server, or application link that corresponds to their credentials and decide if they wish to save their credentials into Windows Credentials Manager. Once user has filled up the form, selecting “Next” will allow the system to check if the password meets the complexity requirements. If it does, users’ credentials will be stored; if it does not, users will have to try again.</p>
 <p align="center">
  <img width="403" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/392821f1-ab60-493f-b2b4-edd20e4958e9">
 </p>
