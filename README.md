@@ -14,11 +14,13 @@ The Automated Windows OS Hardening Tool is a OS hardening tool with GUI to provi
 ## Screenshots
 ### Main Menu
 The main menu of the application consists of five buttons that will navigate the pages to each feature. 
+
 <img width="384" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/b1bef459-8b2a-4e44-b1b3-36a840019b87">
 
 
 ### Remove Applications
 Selecting “Remove Applications” will direct users to the remove applications description page. Once user acknowledges what changes will be made by using this feature, users may choose to proceed with removing the applications or return to main menu. 
+
 <img width="374" alt="image" src="https://github.com/Atyh078/windows-automated-hardening-tool/assets/127681205/e962e613-574c-4506-997f-bc6a49f1f29a">
 
 
